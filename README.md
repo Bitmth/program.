@@ -12,4 +12,4 @@
 </html>
 
 
-<p>Check out my presentation: <a href="MAnaging.pdf" target="_blank">View PDF</a></p>
+<p><a href="MAnaging.pdf" target="_blank">View PDF</a></p>
