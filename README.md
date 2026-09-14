@@ -10,3 +10,6 @@
     <a href="https://drive.google.com/file/d/1-IR2EaJw5p9DNcqgUorITsC0VNZiIIUq/view?usp=drivesdk" target="_blank">Class 10 extra programs.docx.pdf</a>
 </body>
 </html>
+
+
+<p>Check out my presentation: <a href="MAnaging.pdf" target="_blank">View PDF</a></p>
